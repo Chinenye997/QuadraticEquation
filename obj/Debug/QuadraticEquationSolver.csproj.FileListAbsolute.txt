@@ -1,0 +1,7 @@
+C:\Users\Bellany Nigeria\source\repos\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe.config
+C:\Users\Bellany Nigeria\source\repos\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.exe
+C:\Users\Bellany Nigeria\source\repos\QuadraticEquationSolver\bin\Debug\QuadraticEquationSolver.pdb
+C:\Users\Bellany Nigeria\source\repos\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.csproj.AssemblyReference.cache
+C:\Users\Bellany Nigeria\source\repos\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\Bellany Nigeria\source\repos\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.exe
+C:\Users\Bellany Nigeria\source\repos\QuadraticEquationSolver\obj\Debug\QuadraticEquationSolver.pdb
